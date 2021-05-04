@@ -1,0 +1,66 @@
+.heading-team-info {
+  margin-bottom: 20px;
+}
+.team-founded-icon {
+}
+.team-founded-info {
+  display: inline-block;
+  margin-left: 6px;
+  font-weight: bold;
+}
+.teamGender {
+  width: 100%;
+}
+.team-description {
+  margin-top: 20px;
+}
+.team-social-media {
+  margin: auto;
+  margin-top: 20px;
+}
+.facebook {
+  margin-right: 10px;
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  display: inline-block;
+  line-height: 60px;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 50%;
+  color: black;
+  transition: all 0.4s ease-in-out;
+}
+.facebook a,
+a:link,
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+
+.facebook-icon {
+  background-color: #4064ac;
+}
+.facebook-icon:hover a {
+  color: white;
+}
+.facebook-icon {
+}
+.twitter-icon {
+  background-color: #1c9cea;
+}
+.twitter-icon:hover a {
+  color: white;
+}
+.instagram-icon {
+  background-color: #af2fa6;
+}
+.instagram-icon:hover a {
+  color: white;
+}
+.youtube-icon {
+  background-color: #f60002;
+}
+.youtube-icon:hover a {
+  color: #fff;
+}

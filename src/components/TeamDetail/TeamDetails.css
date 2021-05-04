@@ -1,0 +1,39 @@
+.row {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+.team-logo-banner {
+  text-align: center;
+  line-height: 50vh;
+}
+.team-banner button {
+  position: absolute;
+  top: 44px;
+  left: 40px;
+}
+.teamLogo {
+  width: 10%;
+}
+.team-content-banner {
+  background-color: #1f1d1d;
+  padding: 100px 0;
+  color: white;
+}
+
+.team-content-row {
+  background-color: #cc0c7c;
+  border-radius: 10px;
+  padding: 20px 10px;
+}
+
+@media (max-width: 1100px) {
+  .teamLogo {
+    width: 20%;
+  }
+}
+
+@media (max-width: 600px) {
+  .teamLogo {
+    width: 27%;
+  }
+}
